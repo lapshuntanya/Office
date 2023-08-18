@@ -5,6 +5,8 @@ Employee::Employee()
     name = "Noname";
     position = "Noposition";
     salary = 0;
+
+    fgdfghjk
 }
 
 Employee::Employee(string name, string position, float salary){
